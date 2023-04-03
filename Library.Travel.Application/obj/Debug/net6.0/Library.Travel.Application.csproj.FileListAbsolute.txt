@@ -1,0 +1,17 @@
+D:\Projects\LibraryTravel\Library.Travel.Application\bin\Debug\net6.0\Library.Travel.Application.deps.json
+D:\Projects\LibraryTravel\Library.Travel.Application\bin\Debug\net6.0\Library.Travel.Application.dll
+D:\Projects\LibraryTravel\Library.Travel.Application\bin\Debug\net6.0\Library.Travel.Application.pdb
+D:\Projects\LibraryTravel\Library.Travel.Application\obj\Debug\net6.0\Library.Travel.Application.csproj.AssemblyReference.cache
+D:\Projects\LibraryTravel\Library.Travel.Application\obj\Debug\net6.0\Library.Travel.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\LibraryTravel\Library.Travel.Application\obj\Debug\net6.0\Library.Travel.Application.AssemblyInfoInputs.cache
+D:\Projects\LibraryTravel\Library.Travel.Application\obj\Debug\net6.0\Library.Travel.Application.AssemblyInfo.cs
+D:\Projects\LibraryTravel\Library.Travel.Application\obj\Debug\net6.0\Library.Travel.Application.csproj.CoreCompileInputs.cache
+D:\Projects\LibraryTravel\Library.Travel.Application\obj\Debug\net6.0\Library.Travel.Application.dll
+D:\Projects\LibraryTravel\Library.Travel.Application\obj\Debug\net6.0\refint\Library.Travel.Application.dll
+D:\Projects\LibraryTravel\Library.Travel.Application\obj\Debug\net6.0\Library.Travel.Application.pdb
+D:\Projects\LibraryTravel\Library.Travel.Application\obj\Debug\net6.0\ref\Library.Travel.Application.dll
+D:\Projects\LibraryTravel\Library.Travel.Application\bin\Debug\net6.0\Library.Travel.Domain.dll
+D:\Projects\LibraryTravel\Library.Travel.Application\bin\Debug\net6.0\Library.Travel.Transverse.dll
+D:\Projects\LibraryTravel\Library.Travel.Application\bin\Debug\net6.0\Library.Travel.Domain.pdb
+D:\Projects\LibraryTravel\Library.Travel.Application\bin\Debug\net6.0\Library.Travel.Transverse.pdb
+D:\Projects\LibraryTravel\Library.Travel.Application\obj\Debug\net6.0\Library.Travel.Application.csproj.CopyComplete

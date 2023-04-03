@@ -1,0 +1,12 @@
+D:\Projects\LibraryTravel\Library.Travel.Transverse\bin\Debug\net6.0\Library.Travel.Transverse.deps.json
+D:\Projects\LibraryTravel\Library.Travel.Transverse\bin\Debug\net6.0\Library.Travel.Transverse.dll
+D:\Projects\LibraryTravel\Library.Travel.Transverse\bin\Debug\net6.0\Library.Travel.Transverse.pdb
+D:\Projects\LibraryTravel\Library.Travel.Transverse\obj\Debug\net6.0\Library.Travel.Transverse.csproj.AssemblyReference.cache
+D:\Projects\LibraryTravel\Library.Travel.Transverse\obj\Debug\net6.0\Library.Travel.Transverse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\LibraryTravel\Library.Travel.Transverse\obj\Debug\net6.0\Library.Travel.Transverse.AssemblyInfoInputs.cache
+D:\Projects\LibraryTravel\Library.Travel.Transverse\obj\Debug\net6.0\Library.Travel.Transverse.AssemblyInfo.cs
+D:\Projects\LibraryTravel\Library.Travel.Transverse\obj\Debug\net6.0\Library.Travel.Transverse.csproj.CoreCompileInputs.cache
+D:\Projects\LibraryTravel\Library.Travel.Transverse\obj\Debug\net6.0\Library.Travel.Transverse.dll
+D:\Projects\LibraryTravel\Library.Travel.Transverse\obj\Debug\net6.0\refint\Library.Travel.Transverse.dll
+D:\Projects\LibraryTravel\Library.Travel.Transverse\obj\Debug\net6.0\Library.Travel.Transverse.pdb
+D:\Projects\LibraryTravel\Library.Travel.Transverse\obj\Debug\net6.0\ref\Library.Travel.Transverse.dll

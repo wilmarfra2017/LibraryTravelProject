@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "bl7AjrKiU+dB6n8g7kwVToNPqvTXy18/GRkOEGB/1jFrO9OnDhHobmWSJGPqvZgRyRt3w+40MNlZnQ88NiRANQ==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\LibraryTravel\\Library.Travel.Application\\Library.Travel.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mart800749\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\mart800749\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\mart800749\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\mart800749\\.nuget\\packages\\serilog\\2.12.0\\serilog.2.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}

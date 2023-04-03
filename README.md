@@ -19,11 +19,11 @@ La respuesta permite visualizar todos los Libros y detalles de cada libro (ISBN,
 
 # Implementación realizada
 1. Base de datos con tablas pobladas de acuerdo al MER
-2. Microservicio en .Net Core 6 con capa se servicio (API), capa de aplicacion (CQRS), capa de dominio (interfaces y servicio), capa de infraestructura (finder -
+2. Microservicio en .Net Core 6 con capa de servicio (API), capa de aplicacion (CQRS), capa de dominio (interfaces y servicio), capa de infraestructura (finder -
 persistencia a la base de datos SQL), capa transversal (Entidades y utilitario)
 
 Estructura del Microservicio:
-   * Arquitecrura Hexagonal 
+   * Arquitectura Hexagonal 
    * Manejo DDD (Domain Driven Design) 
    * Inyección de dependencias (Principio SOLID)
    * MediatR para ejecución de query (CQRS)
@@ -38,6 +38,7 @@ Username: user
 Password: password
 Para probar la API desde Postman se debe en Autorizacion escoger Basic Auth y establecer las credenciales anteriores
 
-Ejemplo endpoint: https://localhost:7155/api/LibraryTravel
+Ejemplo endpoint
+Metodo GET: https://localhost:7155/api/LibraryTravel
 
 En appsettings del microservicio establecer ruta de conexion a la base de datos local para la prueba
